@@ -244,18 +244,3 @@ function reee(){
 }
 
 setInterval(reee, 7);
-// Adblock
-var doc = document
-var repeat = yes;
-while (repeat = yes){
-doc.getElementById("adCard").remove;
-doc.getElementById("promoImgHolder").remove;
-doc.getElementById("chatbox").placeholder= "Gui Hidden";
-doc.getElementById("google_ads_iframe_/15184186/moomooio_728x90_home_0__container__").remove;
-doc.getElementById("menuCard").remove;
-doc.getElementById("diedText").remove;
-element.getElementsByClassName("menuCard").remove
-doc.getElementById("").remove; //the rest is in working progress
-doc.getElementById("").remove;
-doc.getElementById("").remove;
-}
