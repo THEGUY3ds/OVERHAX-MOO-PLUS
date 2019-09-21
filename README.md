@@ -14,7 +14,7 @@ Random gold amount
 
 Mini map hack
 
-Chat cycler
+Chat cycler press HOME
 
 -----------
 
