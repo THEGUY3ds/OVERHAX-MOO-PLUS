@@ -16,6 +16,8 @@ Mini map hack
 
 Chat cycler press HOME
 
+Ad-Block
+
 -----------
 
 
