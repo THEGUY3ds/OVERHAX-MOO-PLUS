@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         OVERHAX MOO PLUS
 // @namespace    Overhax.ml
-// @version      1.0
+// @namespace    https://github.com/THEGUY3ds/OVERHAX-MOO-PLUS/raw/master/UserScript.user.js
+// @version      1.1
 // @description  Advanced moomoo hack
 // @author       OVERHAX | THEGUY3ds
 // @match        *://moomoo.io/*
@@ -243,3 +244,18 @@ function reee(){
 }
 
 setInterval(reee, 7);
+// Adblock
+var doc = document
+var repeat = yes;
+while (repeat = yes){
+doc.getElementById("youtuberOf").remove;
+doc.getElementById("twitterFollow").remove;
+doc.getElementById("chatbox").placeholder= "Gui Hidden";
+doc.getElementById("chatButton").remove;
+doc.getElementById("mapDisplay").remove;
+doc.getElementById("diedText").remove;
+element.getElementsByClassName("menuCard").remove
+doc.getElementById("").remove; //the rest is in working progress
+doc.getElementById("").remove;
+doc.getElementById("").remove;
+}
