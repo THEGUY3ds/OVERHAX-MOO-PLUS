@@ -248,7 +248,7 @@ setInterval(reee, 7);
 // Custom moomoo hub
 // document.getElementById("gameUI").style.backgroundImage = "url('')";
 document.getElementById("mainMenu").style.backgroundImage = "url('https://i.ibb.co/3cnTVGr/eab9c2da622584c7718a2d1c05793caf.jpg')";
-document.getElementById('youtuberOf').innerHTML = '<a href="http://bit.ly/2wdQQqb">Sub to THEGUY3ds</a>';
+document.getElementById('youtuberOf').innerHTML = '<a href="http://bit.ly/2wdQQqb"><img src="https://i.imgur.com/HPmoAvH.png" alt="Subscribe To My Youtube!" style="width:214px;height:75px;border:0;"></a>';
 document.getElementById('enterGame').innerHTML = 'START GAME';
 document.getElementById('loadingText').innerHTML = 'Hack by OVERHAX | THEGUY3ds';
 document.getElementById('nameInput').placeholder = ">Enter Name<";
@@ -256,11 +256,13 @@ document.getElementById('chatBox').placeholder = "Chat";
 document.getElementById('diedText').innerHTML = 'Game Over';
 document.getElementById("storeHolder").style = "height: 1500px; width: 450px;"
 
+document.getElementById("linksContainer2").innerHTML = '<a href="http://bit.ly/2m776HW">𝐆𝐞𝐭 𝐥𝐚𝐭𝐞𝐬𝐭 𝐯𝐞𝐫𝐬𝐨𝐧 𝐡𝐞𝐫𝐞!"</a>';
+
 document.getElementById('adCard').remove();
 document.getElementById('errorNotification').remove();
 
 document.getElementById("setupCard").style.color = "Red";
-document.getElementById("gameName").innerHTML = "OVERHAX"
+document.getElementById("gameName").innerHTML = "OVERHAX MOD"
 document.getElementById("promoImg").remove();
 document.getElementById("scoreDisplay").style.color = "Red";
 document.getElementById("woodDisplay").style.color = "Red";
