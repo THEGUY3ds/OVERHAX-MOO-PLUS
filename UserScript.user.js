@@ -9,10 +9,11 @@
 // @match        *://45.77.0.81/*
 // @match        *://dev.moomoo.io/*
 // @match        *://sandbox.moomoo.io/*
+// @downloadURL  https://github.com/THEGUY3ds/OVERHAX-MOO-PLUS/raw/master/UserScript.user.js
 // @require      http://code.jquery.com/jquery-1.12.4.min.js
 // @grant        none
 // @connect      moomoo.io
-// @icon https://imgur.com/PKL7UfF[/img]
+// @icon         https://www.google.com/s2/favicons?domain=moomoo.io
 // ==/UserScript==
 // Alert Messege
 alert('OVERHAX MOO PLUS Injected');
