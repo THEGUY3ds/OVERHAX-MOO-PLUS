@@ -4,7 +4,7 @@
 <h2>Userscript: <a href="https://github.com/THEGUY3ds/OVERHAX-MOO-PLUS/raw/master/UserScript.user.js" target="_blank">CLICK HERE</a></h2>
 
 
-Current version 1.1 Fixed
+Current version 1.2 Fixed
 
 --Features--
 
@@ -19,6 +19,10 @@ Chat cycler press HOME
 Ad-Block
 
 Custom Hub
+
+Auto-Heal
+
+Item hot keys
 
 -----------
 
