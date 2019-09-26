@@ -268,7 +268,7 @@ document.getElementById('adCard').remove();
 document.getElementById('errorNotification').remove();
 
 document.getElementById("setupCard").style.color = "Red";
-document.getElementById("gameName").innerHTML = "OVERHAX MOD"
+document.getElementById("gameName").innerHTML = "MOOPLUS"
 document.getElementById("promoImg").remove();
 document.getElementById("scoreDisplay").style.color = "Red";
 document.getElementById("woodDisplay").style.color = "Red";
