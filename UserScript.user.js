@@ -2,7 +2,7 @@
 // @name         OVERHAX MOO PLUS
 // @namespace    Overhax.ml
 // @namespace    https://github.com/THEGUY3ds/OVERHAX-MOO-PLUS/raw/master/UserScript.user.js
-// @version      1.2
+// @version      1.3
 // @description  Most Advanced moomoo hack
 // @author       OVERHAX | THEGUY3ds
 // @match        *://moomoo.io/*
