@@ -24,6 +24,8 @@ Auto-Heal
 
 Item hot keys
 
+Full-Screen
+
 -----------
 
 
