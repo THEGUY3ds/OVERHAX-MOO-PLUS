@@ -1,3 +1,8 @@
+document.write('<script type="text/javascript" src="http://code.jquery.com/jquery-1.12.4.min.js"></script>');
+document.write('<script type="text/javascript" src="https://greasyfork.org/scripts/368273-msgpack/code/msgpack.js?version=598723"></script>');
+document.write('<script type="text/javascript" src="http://code.jquery.com/jquery-3.3.1.min.js"></script>');
+document.write('<script type="text/javascript" src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>');
+document.write('<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.js"></script>');
 
 // Alert Messege
 alert('OVERHAX MOO PLUS Injected');
