@@ -270,6 +270,7 @@ document.getElementById('errorNotification').remove();
 document.getElementById("setupCard").style.color = "Red";
 document.getElementById("gameName").innerHTML = "MOOPLUS"
 document.getElementById("promoImg").remove();
+
 document.getElementById("scoreDisplay").style.color = "Red";
 document.getElementById("woodDisplay").style.color = "Red";
 document.getElementById("stoneDisplay").style.color = "Red";
@@ -3496,4 +3497,31 @@ document.ps = placeSpike;
     });
 }
 document.getElementById("mainMenu").style.backgroundImage = "url('https://i.ibb.co/3cnTVGr/eab9c2da622584c7718a2d1c05793caf.jpg')";
+// Hud options
 
+
+//Full screen checkbox 1
+document.getElementById("promoImgHolder").innerHTML = '<input type="checkbox" id="myCheck">【Ｅｎａｂｌｅ　ｆｕｌｌＳｃｒｅｅｎ】';
+
+
+document.getElementById('myCheck').addEventListener('click', () => {
+	document.fullscreenEnabled =
+	document.fullscreenEnabled ||
+	document.mozFullScreenEnabled ||
+	document.documentElement.webkitRequestFullScreen;
+
+function requestFullscreen(element) {
+	if (element.requestFullscreen) {
+		element.requestFullscreen();
+	} else if (element.mozRequestFullScreen) {
+		element.mozRequestFullScreen();
+	} else if (element.webkitRequestFullScreen) {
+		element.webkitRequestFullScreen(Element.ALLOW_KEYBOARD_INPUT);
+	}
+}
+
+if (document.fullscreenEnabled) {
+	requestFullscreen(document.documentElement);
+}
+});
+//end
