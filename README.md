@@ -24,6 +24,9 @@ Custom Hub
 Auto-Heal
 
 Item hot keys
+-Triple trap- Press O
+
+-Triple Spikes- Press L
 
 Full-Screen
 
