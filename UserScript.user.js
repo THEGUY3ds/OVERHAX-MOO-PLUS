@@ -460,8 +460,6 @@ unsafeWindow.onbeforeunload = null;
 
 $("#ageBarContainer").append('</br><div id="hacktext"><div style="width: 100%;position: absolute;top: 100px;text-align: center;color: white;font-size: 12px;" id="bilgitext">Tab - Free Hats Mod | F1 Police Mod + Animal Caps | F2 ? | F3 All Hats | F4 Turret + Booster Hat| F5 or F6 - Animals Mod | F7 - Animal Caps | F8 - Police Mod | F9 Pandou + Bear + Monkey + Polar Head | F10 Animals Mod + Bull Mask</div><div style="width: 100%;position: absolute;bottom: 170px;text-align: center;color: darkgreen;font-size: 24px;" id="atext"></div><div style="width: 100%;position: absolute;bottom: 196px;text-align: center;color: black;font-size: 24px;" id="mtext"></div>');
 
-$("#mainMenu").css("background", "url('https://picserio.com/data/out/180/saw-movie-wallpaper_3965381.jpg')");
-
 $('.menuCard').css({'white-space': 'normal',
                     'text-align': 'center',
                     'background-color': 'rgba(0, 0, 0, 0.74)',
@@ -3496,7 +3494,6 @@ document.ps = placeSpike;
 
     });
 }
-document.getElementById("mainMenu").style.backgroundImage = "url('https://i.ibb.co/3cnTVGr/eab9c2da622584c7718a2d1c05793caf.jpg')";
 // Hud options
 
 
