@@ -237,20 +237,20 @@ window.addEventListener('keyup', function (event){
     }
 });
 // Random Gold amount
-var countr = 0;
-var delay = 0;
-var rand = Math.round(Math.random()*1500);
+//var countr = 0;
+//var delay = 0;
+//var rand = Math.round(Math.random()*1500);
 
-function reee(){
-  if(1500+rand <= delay){
-  countr += Math.max(1, Math.round(countr*1.01))
-  document.getElementById("scoreDisplay").innerHTML = countr;
-  } else {
-    delay += 1;
-  }
-}
+//function reee(){
+  //if(1500+rand <= delay){
+  //countr += Math.max(1, Math.round(countr*1.01))
+  //document.getElementById("scoreDisplay").innerHTML = countr;
+  //} else {
+  //  delay += 1;
+ /// }
+//}
 
-setInterval(reee, 7);
+//setInterval(reee, 7);
 // Custom moomoo hub
 // document.getElementById("gameUI").style.backgroundImage = "url('')";
 document.getElementById("mainMenu").style.backgroundImage = "url('https://i.ibb.co/3cnTVGr/eab9c2da622584c7718a2d1c05793caf.jpg')";
